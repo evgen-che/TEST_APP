@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d8efa549-1c0f-49ed-baa1-3556229ca869">
+  <producedTypes>
+    <managerType typeId="1dc80736-f04a-4b17-abbc-1abe3838015f" valueTypeId="dc5b1d83-b5ae-4b14-8df5-143e1f881021"/>
+    <valueManagerType typeId="24f75f45-df5b-4d04-b639-457f1385e701" valueTypeId="63ca25c7-4e7e-4a6d-87b5-e83220d4bbf7"/>
+    <valueKeyType typeId="5d593fa5-8f58-4c40-a88f-6827c28458db" valueTypeId="246cc4cb-2714-4d2d-8090-4a62040463fd"/>
+  </producedTypes>
+  <name>ДатаНачалаРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дата начала работы</value>
+  </synonym>
+  <type>
+    <types>Date</types>
+    <dateQualifiers>
+      <dateFractions>Date</dateFractions>
+    </dateQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
