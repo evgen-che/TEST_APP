@@ -39,5 +39,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <constants>Constant.ДатаНачалаРаботы</constants>
+  <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Организация</catalogs>
 </mdclass:Configuration>
